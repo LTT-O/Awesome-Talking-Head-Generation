@@ -3,7 +3,7 @@ Something about Talking Head Generation
 
 ## video driven
 | Pub |  Title  |Links|
-|:--------:| :-------------:|:-------------:|
+|:--------:| :-------------|:-------------:|
 |CVPR(2022) | StyleHEAT: One-Shot High-Resolution Editable Talking Face Generation via Pre-trained StyleGAN|[PDF](https://arxiv.org/pdf/2203.04036.pdf)/[code](https://github.com/FeiiYin/StyleHEAT) |
 |CVPR(2021) | PIRenderer: Controllable Portrait Image Generation via Semantic Neural Rendering|[PDF](https://arxiv.org/pdf/2109.08379)/[code](https://github.com/RenYurui/PIRender) |
 |CVPR(2022) | Depth-Aware Generative Adversarial Network for Talking Head Video Generation|[PDF](https://arxiv.org/pdf/2203.06605)/[code](https://github.com/harlanhong/CVPR2022-DaGAN) |
@@ -14,7 +14,7 @@ Something about Talking Head Generation
 
 ## audio driven
 | Pub |  Title  |Links|
-|:--------:| :-------------:|:-------------:|
+|:--------:| :-------------|:-------------:|
 |IJCAI(2021)| Audio2Head: Audio-driven One-shot Talking-head Generation with Natural Head Motion |[PDF](https://arxiv.org/pdf/2107.09293)/[code](https://github.com/wangsuzhen/Audio2Head) |
 |CVPR(2021)| Audio-Driven Emotional Video Portraits |[PDF](https://arxiv.org/abs/2104.07452)/[code](https://github.com/jixinya/EVP) |
 |CoRR 2020|Audio-driven Talking Face Video Generation with Learning-based Personalized Head Pose|[PDF](http://arxiv.org/abs/2002.10137)/[code](https://github.com/yiranran/Audio-driven-TalkingFace-HeadPose) |
