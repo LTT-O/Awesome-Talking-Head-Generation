@@ -4,8 +4,8 @@ Something about Talking Head Generation
 ## video driven
 | Pub |  Title  |Links|
 |:--------:| :-------------|:-------------:|
-|CVPR(2022) | StyleHEAT: One-Shot High-Resolution Editable Talking Face Generation via Pre-trained StyleGAN|[PDF](https://arxiv.org/pdf/2203.04036.pdf)/[code](https://github.com/FeiiYin/StyleHEAT) |
 |CVPR(2021) | PIRenderer: Controllable Portrait Image Generation via Semantic Neural Rendering|[PDF](https://arxiv.org/pdf/2109.08379)/[code](https://github.com/RenYurui/PIRender) |
+|CVPR(2022) | StyleHEAT: One-Shot High-Resolution Editable Talking Face Generation via Pre-trained StyleGAN|[PDF](https://arxiv.org/pdf/2203.04036.pdf)/[code](https://github.com/FeiiYin/StyleHEAT) |
 |CVPR(2022) | Depth-Aware Generative Adversarial Network for Talking Head Video Generation|[PDF](https://arxiv.org/pdf/2203.06605)/[code](https://github.com/harlanhong/CVPR2022-DaGAN) |
 | ICLR(2022)|Latent Image Animator: Learning to Animate Images via Latent Space Navigation |[PDF](https://arxiv.org/pdf/2203.09043)/[code](https://github.com/wyhsirius/LIA) |
 |ECCV(2022) |Face2Face:Real-Time High-Resolution One-Shot Face Reenactment |[PDF](https://github.com/NetEase-GameAI/Face2FaceRHO/blob/master/paper.pdf)/[code](https://github.com/NetEase-GameAI/Face2FaceRHO) |
