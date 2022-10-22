@@ -34,4 +34,9 @@ Something about Talking Head Generation
 |:--------:| :-------------|:-------------:|
 |AAAI(2021)|Write-a-speaker: Text-based Emotional and Rhythmic Talking-head Generation|[PDF](https://arxiv.org/abs/2104.07995)/[code](https://github.com/FuxiVirtualHuman/Write-a-Speaker)|
 
+## dataset
+| Name |  Source  |Description|
+|:--------:| :-------------:|:-------------:|
+|HDTF|https://github.com/MRzzm/HDTF | High-resolution Audio-visual Dataset|
+
 
