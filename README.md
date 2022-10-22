@@ -19,6 +19,7 @@ Something about Talking Head Generation
 |IJCAI(2021)| Audio2Head: Audio-driven One-shot Talking-head Generation with Natural Head Motion |[PDF](https://arxiv.org/pdf/2107.09293)/[code](https://github.com/wangsuzhen/Audio2Head) |
 |CVPR(2021)| Flow-guided One-shot Talking Face Generation with a High-resolutionAudio-visual Dataset|[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Flow-Guided_One-Shot_Talking_Face_Generation_With_a_High-Resolution_Audio-Visual_Dataset_CVPR_2021_paper.pdf)/[code](https://github.com/MRzzm/HDTF) |
 |CVPR(2021)| Audio-Driven Emotional Video Portraits |[PDF](https://arxiv.org/abs/2104.07452)/[code](https://github.com/jixinya/EVP) |
+|CVPR(2021)|Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation |[PDF](https://arxiv.org/abs/2104.11116)/[code](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS) |
 |ICCV(2021)|FACIAL: Synthesizing Dynamic Talking Face with Implicit Attribute Learning |[PDF](https://arxiv.org/pdf/2108.07938.pdf)/[code](https://github.com/zhangchenxu528/FACIAL) |
 |arXiv(2021)|One-shot Talking Face Generation from Single-speaker Audio-Visual Correlation Learning|[PDF](https://arxiv.org/pdf/2112.02749.pdf)|
 |InterSpeech(2021)|Speech2Video: Cross-Modal Distillation for Speech to Video Generation |[PDF](https://arxiv.org/pdf/2107.04806v1)|
@@ -26,5 +27,10 @@ Something about Talking Head Generation
 |AAAI(2022) | SyncTalkFace: Talking Face Generation with Precise Lip-syncing via Audio-Lip Memory| [PDF](https://link.zhihu.com/?target=https%3A//www.aaai.org/AAAI22Papers/AAAI-7528.ParkS.pdf)|
 |arXiv(2022)| Perceptual Conversational Head Generation with Regularized Driver and Enhanced Renderer|[PDF](https://arxiv.org/abs/2206.12837)/[code](https://github.com/megvii-research/MM2022-ViCoPerceptualHeadGeneration) |
 |WACV(2023) |Audio-Visual Face Reenactment |[PDF](http://cvit.iiit.ac.in/images/Projects/avfr/paper.pdf)/[code](https://github.com/mdv3101/AVFR-Gan) |
+
+## text driven
+| Pub |  Title  |Links|
+|:--------:| :-------------|:-------------:|
+|AAAI(2021)|Write-a-speaker: Text-based Emotional and Rhythmic Talking-head Generation|[PDF](https://arxiv.org/abs/2104.07995)/[code](https://github.com/FuxiVirtualHuman/Write-a-Speaker)|
 
 
