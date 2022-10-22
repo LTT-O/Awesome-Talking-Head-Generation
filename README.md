@@ -1,7 +1,7 @@
 # Talk-Head-Generation
 Something about Talking Head Generation
 
-## video driven
+## Video driven
 | Pub |  Title  |Links|
 |:--------:| :-------------|:-------------:|
 |CVPR(2021) | PIRenderer: Controllable Portrait Image Generation via Semantic Neural Rendering|[PDF](https://arxiv.org/pdf/2109.08379)/[code](https://github.com/RenYurui/PIRender) |
@@ -12,7 +12,7 @@ Something about Talking Head Generation
 |WACV(2023) |Audio-Visual Face Reenactment |[PDF](http://cvit.iiit.ac.in/images/Projects/avfr/paper.pdf)/[code](https://github.com/mdv3101/AVFR-Gan) |
 
 
-## audio driven
+## Audio driven
 | Pub |  Title  |Links|
 |:--------:| :-------------|:-------------:|
 |CoRR(2020)|Audio-driven Talking Face Video Generation with Learning-based Personalized Head Pose|[PDF](http://arxiv.org/abs/2002.10137)/[code](https://github.com/yiranran/Audio-driven-TalkingFace-HeadPose) |
@@ -29,12 +29,12 @@ Something about Talking Head Generation
 |arXiv(2022)| Perceptual Conversational Head Generation with Regularized Driver and Enhanced Renderer|[PDF](https://arxiv.org/abs/2206.12837)/[code](https://github.com/megvii-research/MM2022-ViCoPerceptualHeadGeneration) |
 |WACV(2023) |Audio-Visual Face Reenactment |[PDF](http://cvit.iiit.ac.in/images/Projects/avfr/paper.pdf)/[code](https://github.com/mdv3101/AVFR-Gan) |
 
-## text driven
+## Text driven
 | Pub |  Title  |Links|
 |:--------:| :-------------|:-------------:|
 |AAAI(2021)|Write-a-speaker: Text-based Emotional and Rhythmic Talking-head Generation|[PDF](https://arxiv.org/abs/2104.07995)/[code](https://github.com/FuxiVirtualHuman/Write-a-Speaker)|
 
-## dataset
+## Dataset
 | Name |  Source  |Statistics|Description|
 |:--------:| :-------------:|:-------------:|:-------------|
 |HDTF|https://github.com/MRzzm/HDTF |<img src="https://github.com/LTT-O/Talk-Head-Generation/blob/main/Image/HDTF.png" width="120%" height="120%" /> |High-resolution Audio-visual Dataset|
