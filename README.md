@@ -35,8 +35,11 @@ Something about Talking Head Generation
 |AAAI(2021)|Write-a-speaker: Text-based Emotional and Rhythmic Talking-head Generation|[PDF](https://arxiv.org/abs/2104.07995)/[code](https://github.com/FuxiVirtualHuman/Write-a-Speaker)|
 
 ## dataset
-| Name |  Source  |Description|
-|:--------:| :-------------:|:-------------:|
-|HDTF|https://github.com/MRzzm/HDTF | High-resolution Audio-visual Dataset|
+| Name |  Source  |Statistics|Description|
+|:--------:| :-------------:|:-------------:|:-------------:|
+|HDTF|https://github.com/MRzzm/HDTF |<img src="https://github.com/LTT-O/Talk-Head-Generation/blob/main/HDTF.png" width="60%" height="80%" /> |High-resolution Audio-visual Dataset|
+|CelebV-HQ|https://celebv-hq.github.io/ |<img src="https://github.com/LTT-O/Talk-Head-Generation/blob/main/CelebV.png" width="60%" height="80%" /> |High-quality talking head dataset|
+|TalkingHead-1KH|https://github.com/deepimagination/TalkingHead-1KH |	500k video clips, of which about 80k are greater than 512x512 resolution|Talking-head dataset consisting of YouTube videos|
+| LRS3| | | Lip-reading recognition, including video and corresponding text|
 
 
