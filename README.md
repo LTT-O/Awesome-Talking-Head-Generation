@@ -20,6 +20,7 @@ Something about Talking Head Generation
 |CVPR(2021)| Flow-guided One-shot Talking Face Generation with a High-resolutionAudio-visual Dataset|[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Flow-Guided_One-Shot_Talking_Face_Generation_With_a_High-Resolution_Audio-Visual_Dataset_CVPR_2021_paper.pdf)/[code](https://github.com/MRzzm/HDTF) |
 |CVPR(2021)| Audio-Driven Emotional Video Portraits |[PDF](https://arxiv.org/abs/2104.07452)/[code](https://github.com/jixinya/EVP) |
 |ICCV(2021)|FACIAL: Synthesizing Dynamic Talking Face with Implicit Attribute Learning |[PDF](https://arxiv.org/pdf/2108.07938.pdf)/[code](https://github.com/zhangchenxu528/FACIAL) |
+|arXiv(2021)|One-shot Talking Face Generation from Single-speaker Audio-Visual Correlation Learning|[PDF](https://arxiv.org/pdf/2112.02749.pdf)|
 |InterSpeech(2021)|Speech2Video: Cross-Modal Distillation for Speech to Video Generation |[PDF](https://arxiv.org/pdf/2107.04806v1)|
 |ACM MM(2022)|Talking Head from Speech Audio using a Pre-trained Image Generator | [PDF](https://dl.acm.org/doi/10.1145/3503161.3548101)/[code](https://github.com/MohammedAlghamdi/talking-heads-acm-mm) |
 |AAAI(2022) | SyncTalkFace: Talking Face Generation with Precise Lip-syncing via Audio-Lip Memory| [PDF](https://link.zhihu.com/?target=https%3A//www.aaai.org/AAAI22Papers/AAAI-7528.ParkS.pdf)|
