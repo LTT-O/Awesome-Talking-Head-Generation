@@ -42,6 +42,6 @@ Something about Talking Head Generation
 |TalkingHead-1KH|https://github.com/deepimagination/TalkingHead-1KH |	500k video clips, of which about 80k are greater than 512x512 resolution|Talking-head dataset consisting of YouTube videos|
 | LRS3|https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrs3.html | <img src="https://github.com/LTT-O/Talk-Head-Generation/blob/main/Image/LRS3.png" width="120%" height="120%" />| Lip-reading recognition, including video and corresponding text|
 | LRW|https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrw1.html | <img src="https://github.com/LTT-O/Talk-Head-Generation/blob/main/Image/LRW.png" width="120%" height="120%" />| Lip Reading in the Wild|
-|MEAD|https://github.com/uniBruce/Mead|<img src="https://github.com/LTT-O/Talk-Head-Generation/blob/main/Image/MEAD.png" width="120%" height="120%" />|Talking Head dataset with emotion and intensity|
+|MEAD|https://github.com/uniBruce/Mead|<img src="https://github.com/LTT-O/Talk-Head-Generation/blob/main/Image/MEAD.png" width="120%" height="120%" />|Talking Head dataset with emotion labels and intensity labels|
 
 
