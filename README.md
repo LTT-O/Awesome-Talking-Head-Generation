@@ -27,6 +27,7 @@ Something about Talking Head Generation
 |AAAI(2022) | SyncTalkFace: Talking Face Generation with Precise Lip-syncing via Audio-Lip Memory| [PDF](https://link.zhihu.com/?target=https%3A//www.aaai.org/AAAI22Papers/AAAI-7528.ParkS.pdf)|
 |arXiv(2022)|DFA-NeRF: Personalized Talking Head Generation via Disentangled Face Attributes Neural Rendering|[PDF](https://arxiv.org/pdf/2201.00791.pdf)|
 |arXiv(2022)| Perceptual Conversational Head Generation with Regularized Driver and Enhanced Renderer|[PDF](https://arxiv.org/abs/2206.12837)/[code](https://github.com/megvii-research/MM2022-ViCoPerceptualHeadGeneration) |
+|arXiv(2022)|Synthesizing Photorealistic Virtual Humans Through Cross-modal Disentanglement|[PDF](https://arxiv.org/pdf/2209.01320.pdf)|
 |WACV(2023) |Audio-Visual Face Reenactment |[PDF](http://cvit.iiit.ac.in/images/Projects/avfr/paper.pdf)/[code](https://github.com/mdv3101/AVFR-Gan) |
 
 ## Text driven
