@@ -25,11 +25,10 @@ Something about Talking Head Generation
 |InterSpeech(2021)|Speech2Video: Cross-Modal Distillation for Speech to Video Generation |[PDF](https://arxiv.org/pdf/2107.04806v1)| |
 |ACM MM(2022)|Talking Head from Speech Audio using a Pre-trained Image Generator | [PDF](https://dl.acm.org/doi/10.1145/3503161.3548101)/[code](https://github.com/MohammedAlghamdi/talking-heads-acm-mm) |Audio to latent code mapping|
 |AAAI(2022) | SyncTalkFace: Talking Face Generation with Precise Lip-syncing via Audio-Lip Memory| [PDF](https://link.zhihu.com/?target=https%3A//www.aaai.org/AAAI22Papers/AAAI-7528.ParkS.pdf)| Memory learning|
-|arXiv(2022)|DFA-NeRF: Personalized Talking Head Generation via Disentangled Face Attributes Neural Rendering|[PDF](https://arxiv.org/pdf/2201.00791.pdf)|
+|arXiv(2022)|DFA-NeRF: Personalized Talking Head Generation via Disentangled Face Attributes Neural Rendering|[PDF](https://arxiv.org/pdf/2201.00791.pdf)/[code](https://github.com/ShunyuYao/DFA-NeRF)|contrastive learning |
 |arXiv(2022)| Perceptual Conversational Head Generation with Regularized Driver and Enhanced Renderer|[PDF](https://arxiv.org/abs/2206.12837)/[code](https://github.com/megvii-research/MM2022-ViCoPerceptualHeadGeneration) | Audio to 3D face mapping|
 |arXiv(2022)|Synthesizing Photorealistic Virtual Humans Through Cross-modal Disentanglement|[PDF](https://arxiv.org/pdf/2209.01320.pdf)|- |
-|WACV(2023) |Audio-Visual Face Reenactment |[PDF](http://cvit.iiit.ac.in/images/Projects/avfr/paper.pdf)/[code](https://github.com/mdv3101/AVFR-Gan) | Audio 
-feature map on lip region|
+|WACV(2023) |Audio-Visual Face Reenactment |[PDF](http://cvit.iiit.ac.in/images/Projects/avfr/paper.pdf)/[code](https://github.com/mdv3101/AVFR-Gan)| Audio feature map on lip region|
 
 ## Text driven
 | Pub |  Title  |Links|
