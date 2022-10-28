@@ -35,6 +35,7 @@ Something about Talking Head Generation
 | Pub |  Title  |Links|
 |:--------:| :-------------|:-------------:|
 |AAAI(2021)|Write-a-speaker: Text-based Emotional and Rhythmic Talking-head Generation|[PDF](https://arxiv.org/abs/2104.07995)/[code](https://github.com/FuxiVirtualHuman/Write-a-Speaker)|
+|	arXiv(2021)|Txt2vid: Ultra-low bitrate compression of talking-head videos via text|[PDF](https://arxiv.org/abs/2106.14014v3)/[code](https://github.com/tpulkit/txt2vid)|
 
 ## Dataset
 | Name |  Source  |Statistics|Description|
