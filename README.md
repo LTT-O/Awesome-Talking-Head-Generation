@@ -54,7 +54,7 @@ Something about Talking Head Generation
 - LSE-C (Lip Sync Error - Confidence)
 - LPIPS (Learned Perceptual Image Patch Similarity)
 - NIQE (Natural Image Quality Evaluator
-- - FID (Fréchet inception distance)
+- FID (Fréchet inception distance)
 - LMD (landmark distance error)
 - LRA (lip-reading accuracy)
 
