@@ -47,15 +47,17 @@ Something about Talking Head Generation
 | LRW|https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrw1.html | <img src="https://github.com/LTT-O/Talk-Head-Generation/blob/main/Image/LRW.png" width="120%" height="120%" />| Lip Reading in the Wild|
 |MEAD|https://github.com/uniBruce/Mead|<img src="https://github.com/LTT-O/Talk-Head-Generation/blob/main/Image/MEAD.png" width="120%" height="120%" />|Talking Head dataset with emotion labels and intensity labels|
 
-##Metrics
+## Metrics
 - PSNR (peak signal-to-noise ratio)
 - SSIM (structural similarity index measure)
-- LMD (landmark distance error)
-- LRA (lip-reading accuracy) -
-- FID (Fréchet inception distance)
 - LSE-D (Lip Sync Error - Distance)
 - LSE-C (Lip Sync Error - Confidence)
 - LPIPS (Learned Perceptual Image Patch Similarity)
 - NIQE (Natural Image Quality Evaluator
+- - FID (Fréchet inception distance)
+- LMD (landmark distance error)
+- LRA (lip-reading accuracy)
+
+
 
 
