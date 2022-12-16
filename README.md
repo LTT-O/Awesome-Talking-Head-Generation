@@ -10,6 +10,7 @@ Something about Talking Head Generation
 | ICLR(2022)|Latent Image Animator: Learning to Animate Images via Latent Space Navigation |[PDF](https://arxiv.org/pdf/2203.09043)/[code](https://github.com/wyhsirius/LIA) |
 |ECCV(2022) |Face2Face:Real-Time High-Resolution One-Shot Face Reenactment |[PDF](https://github.com/NetEase-GameAI/Face2FaceRHO/blob/master/paper.pdf)/[code](https://github.com/NetEase-GameAI/Face2FaceRHO) |
 |NeurIPS(2022)|Implicit Warping for Animation with Image Sets|[PDF](https://arxiv.org/pdf/2210.01794.pdf)/[code](https://deepimagination.cc/implicit_warping/)|
+|arXiv(2022) |MetaPortrait: Identity-Preserving Talking Head Generation with Fast Personalized Adaptation |[PDF](https://arxiv.org/pdf/2212.08062.pdf)/[code](https://github.com/Meta-Portrait/MetaPortrait) |
 |WACV(2023) |Audio-Visual Face Reenactment |[PDF](http://cvit.iiit.ac.in/images/Projects/avfr/paper.pdf)/[code](https://github.com/mdv3101/AVFR-Gan) |
 
 
