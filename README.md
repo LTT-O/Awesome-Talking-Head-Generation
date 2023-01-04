@@ -32,6 +32,7 @@ Something about Talking Head Generation
 |arXiv(2022)|Synthesizing Photorealistic Virtual Humans Through Cross-modal Disentanglement|[PDF](https://arxiv.org/pdf/2209.01320.pdf)|- |
 |arXiv(2022)|Memories are One-to-Many Mapping Alleviators in Talking Face Generation|[PDF](https://arxiv.org/abs/2212.05005v2)|
 |WACV(2023) |Audio-Visual Face Reenactment |[PDF](http://cvit.iiit.ac.in/images/Projects/avfr/paper.pdf)/[code](https://github.com/mdv3101/AVFR-Gan)| Audio feature map on lip region|
+|AAAI(2023) |StyleTalker: One-shot Style-based Audio-driven Talking Head Video Generation|[PDF](https://arxiv.org/pdf/2208.10922.pdf)|
 
 ## Text driven
 | Pub |  Title  |Links|
