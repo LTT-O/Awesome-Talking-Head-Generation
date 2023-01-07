@@ -51,13 +51,21 @@ Something about Talking Head Generation
 |MEAD|https://github.com/uniBruce/Mead|<img src="https://github.com/LTT-O/Talk-Head-Generation/blob/main/Image/MEAD.png" width="120%" height="120%" />|Talking Head dataset with emotion labels and intensity labels|
 
 ## Metrics
+###  Image quality
+- LPIPS (Learned Perceptual Image Patch Similarity)
 - PSNR (peak signal-to-noise ratio)
 - SSIM (structural similarity index measure)
+- FID (Fréchet inception distance)
+- NIQE (Natural Image Quality Evaluator)
+
+###  Identity preservation
+- CSIM (cosine similarity of identity by ArcFace)
+
+### Motion transfer quality
+- AED (Average Expression Distance) 
+- APD (Average Pose Distance)
 - LSE-D (Lip Sync Error - Distance)
 - LSE-C (Lip Sync Error - Confidence)
-- LPIPS (Learned Perceptual Image Patch Similarity)
-- NIQE (Natural Image Quality Evaluator
-- FID (Fréchet inception distance)
 - LMD (landmark distance error)
 - LRA (lip-reading accuracy)
 
