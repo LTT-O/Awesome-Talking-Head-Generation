@@ -51,7 +51,7 @@ Something about Talking Head Generation
 |MEAD|https://github.com/uniBruce/Mead|<img src="https://github.com/LTT-O/Talk-Head-Generation/blob/main/Image/MEAD.png" width="120%" height="120%" />|Talking Head dataset with emotion labels and intensity labels|
 
 ## Metrics
-###  Image quality
+###  Image quality([code](https://github.com/chaofengc/IQA-PyTorch))
 - LPIPS (Learned Perceptual Image Patch Similarity)
 - PSNR (peak signal-to-noise ratio)
 - SSIM (structural similarity index measure)
