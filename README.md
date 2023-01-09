@@ -30,7 +30,7 @@ Something about Talking Head Generation
 |arXiv(2022)|DFA-NeRF: Personalized Talking Head Generation via Disentangled Face Attributes Neural Rendering|[PDF](https://arxiv.org/pdf/2201.00791.pdf)/[code](https://github.com/ShunyuYao/DFA-NeRF)|Contrastive learning |
 |arXiv(2022)| Perceptual Conversational Head Generation with Regularized Driver and Enhanced Renderer|[PDF](https://arxiv.org/abs/2206.12837)/[code](https://github.com/megvii-research/MM2022-ViCoPerceptualHeadGeneration) | Audio to 3D face mapping|
 |arXiv(2022)|Synthesizing Photorealistic Virtual Humans Through Cross-modal Disentanglement|[PDF](https://arxiv.org/pdf/2209.01320.pdf)|- |
-|arXiv(2022)|Memories are One-to-Many Mapping Alleviators in Talking Face Generation|[PDF](https://arxiv.org/abs/2212.05005v2)|
+|arXiv(2022)|Memories are One-to-Many Mapping Alleviators in Talking Face Generation|[PDF](https://arxiv.org/abs/2212.05005v2)|Audio to 3D face mapping|
 |WACV(2023) |Audio-Visual Face Reenactment |[PDF](http://cvit.iiit.ac.in/images/Projects/avfr/paper.pdf)/[code](https://github.com/mdv3101/AVFR-Gan)| Audio feature map on lip region|
 |AAAI(2023) |StyleTalker: One-shot Style-based Audio-driven Talking Head Video Generation|[PDF](https://arxiv.org/pdf/2208.10922.pdf)|
 
