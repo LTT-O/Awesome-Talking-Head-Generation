@@ -33,6 +33,7 @@ Something about Talking Head Generation
 |arXiv(2022)|Memories are One-to-Many Mapping Alleviators in Talking Face Generation|[PDF](https://arxiv.org/abs/2212.05005v2)|Audio to 3D face mapping|
 |WACV(2023) |Audio-Visual Face Reenactment |[PDF](http://cvit.iiit.ac.in/images/Projects/avfr/paper.pdf)/[code](https://github.com/mdv3101/AVFR-Gan)| Audio feature map on lip region|
 |AAAI(2023) |StyleTalker: One-shot Style-based Audio-driven Talking Head Video Generation|[PDF](https://arxiv.org/pdf/2208.10922.pdf)|
+|Under Review|Diffused Heads: Diffusion Models Beat GANs on Talking-Face Generation|[PDF](https://arxiv.org/pdf/2301.03396.pdf)|Diffusion Model|
 
 ## Text driven
 | Pub |  Title  |Links|
