@@ -34,6 +34,7 @@ Something about Talking Head Generation
 |WACV(2023) |Audio-Visual Face Reenactment |[PDF](http://cvit.iiit.ac.in/images/Projects/avfr/paper.pdf)/[code](https://github.com/mdv3101/AVFR-Gan)| Audio feature map on lip region|
 |AAAI(2023) |StyleTalker: One-shot Style-based Audio-driven Talking Head Video Generation|[PDF](https://arxiv.org/pdf/2208.10922.pdf)|
 |Under Review|Diffused Heads: Diffusion Models Beat GANs on Talking-Face Generation|[PDF](https://arxiv.org/pdf/2301.03396.pdf)|Diffusion Model|
+|arXiv(2023)|DiffTalk: Crafting Diffusion Models for Generalized Talking Head Synthesis|[PDF](https://arxiv.org/pdf/2301.03786.pdf)/[code](https://github.com/sstzal/DiffTalk)|Diffusion Model|
 
 ## Text driven
 | Pub |  Title  |Links|
