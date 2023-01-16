@@ -18,7 +18,7 @@ Something about Talking Head Generation
 | Pub |  Title  |Links| Notes|
 |:--------:| :-------------|:-------------:|:-------------|
 |CoRR(2020)|Audio-driven Talking Face Video Generation with Learning-based Personalized Head Pose|[PDF](http://arxiv.org/abs/2002.10137)/[code](https://github.com/yiranran/Audio-driven-TalkingFace-HeadPose) |Audio to 3D face mapping|
-|IJCAI(2021)|Speech2Talking-Face: Inferring and Driving a Face with Synchronized Audio-Visual Representation|[PDF](https://www.ijcai.org/proceedings/2021/0141.pdf)|
+|IJCAI(2021)|Speech2Talking-Face: Inferring and Driving a Face with Synchronized Audio-Visual Representation|[PDF](https://www.ijcai.org/proceedings/2021/0141.pdf)/[code](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS)|
 |IJCAI(2021)| Audio2Head: Audio-driven One-shot Talking-head Generation with Natural Head Motion |[PDF](https://arxiv.org/pdf/2107.09293)/[code](https://github.com/wangsuzhen/Audio2Head) |Audio to keypoints mapping |
 |CVPR(2021)| Flow-guided One-shot Talking Face Generation with a High-resolutionAudio-visual Dataset|[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Flow-Guided_One-Shot_Talking_Face_Generation_With_a_High-Resolution_Audio-Visual_Dataset_CVPR_2021_paper.pdf)/[code](https://github.com/MRzzm/HDTF) |Audio to 3D face mapping |
 |CVPR(2021)| Audio-Driven Emotional Video Portraits |[PDF](https://arxiv.org/abs/2104.07452)/[code](https://github.com/jixinya/EVP) | Audio to face landmark|
