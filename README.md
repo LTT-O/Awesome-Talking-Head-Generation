@@ -36,6 +36,7 @@ Something about Talking Head Generation
 |AAAI(2023) |StyleTalker: One-shot Style-based Audio-driven Talking Head Video Generation|[PDF](https://arxiv.org/pdf/2208.10922.pdf)|
 |Under Review|Diffused Heads: Diffusion Models Beat GANs on Talking-Face Generation|[PDF](https://arxiv.org/pdf/2301.03396.pdf)|Diffusion Model|
 |arXiv(2023)|DiffTalk: Crafting Diffusion Models for Generalized Talking Head Synthesis|[PDF](https://arxiv.org/pdf/2301.03786.pdf)/[code](https://github.com/sstzal/DiffTalk)|Diffusion Model|
+|ICLR(20233)Under review|Feature-Driven Talking Face Generation With Stylegan2|[PDF](https://openreview.net/pdf?id=79xEHFvjx9p)|
 
 ## Text driven
 | Pub |  Title  |Links|
