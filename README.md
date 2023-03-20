@@ -37,6 +37,7 @@ Something about Talking Head Generation
 |Under Review|Diffused Heads: Diffusion Models Beat GANs on Talking-Face Generation|[PDF](https://arxiv.org/pdf/2301.03396.pdf)|Diffusion Model|
 |arXiv(2023)|DiffTalk: Crafting Diffusion Models for Generalized Talking Head Synthesis|[PDF](https://arxiv.org/pdf/2301.03786.pdf)/[code](https://github.com/sstzal/DiffTalk)|Diffusion Model|
 |ICLR(20233)Under review|Feature-Driven Talking Face Generation With Stylegan2|[PDF](https://openreview.net/pdf?id=79xEHFvjx9p)|
+|SIGGRAPH(2022)|VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild|[PDF](https://arxiv.org/pdf/2211.14758.pdf)/[code](https://github.com/vinthony/video-retalking)|
 
 ## Text driven
 | Pub |  Title  |Links|
