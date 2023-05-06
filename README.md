@@ -12,6 +12,7 @@ Something about Talking Head Generation
 |NeurIPS(2022)|Implicit Warping for Animation with Image Sets|[PDF](https://arxiv.org/pdf/2210.01794.pdf)/[code](https://deepimagination.cc/implicit_warping/)|
 |arXiv(2022) |MetaPortrait: Identity-Preserving Talking Head Generation with Fast Personalized Adaptation |[PDF](https://arxiv.org/pdf/2212.08062.pdf)/[code](https://github.com/Meta-Portrait/MetaPortrait) |
 |WACV(2023) |Audio-Visual Face Reenactment |[PDF](http://cvit.iiit.ac.in/images/Projects/avfr/paper.pdf)/[code](https://github.com/mdv3101/AVFR-Gan) |
+|CVPR2023|One-Shot High-Fidelity Talking-Head Synthesis with Deformable Neural Radiance Field|[PDF](https://arxiv.org/pdf/2304.05097v1.pdf)/[code](https://www.waytron.net/hidenerf/)|
 
 
 ## Audio driven
@@ -38,6 +39,7 @@ Something about Talking Head Generation
 |arXiv(2023)|DiffTalk: Crafting Diffusion Models for Generalized Talking Head Synthesis|[PDF](https://arxiv.org/pdf/2301.03786.pdf)/[code](https://github.com/sstzal/DiffTalk)|Diffusion Model|
 |ICLR(20233)Under review|Feature-Driven Talking Face Generation With Stylegan2|[PDF](https://openreview.net/pdf?id=79xEHFvjx9p)|
 |SIGGRAPH(2022)|VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild|[PDF](https://arxiv.org/pdf/2211.14758.pdf)/[code](https://github.com/vinthony/video-retalking)|
+|arXiv(2023)|THAT’S WHAT I SAID: FULLY-CONTROLLABLE TALKING FACE GENERATION|[PDF](https://mm.kaist.ac.kr/projects/FC-TFG/)/[code](https://github.com/art-jang/talking_head_synthesis)|
 
 
 ## Text driven
@@ -45,6 +47,16 @@ Something about Talking Head Generation
 |:--------:| :-------------|:-------------:|
 |AAAI(2021)|Write-a-speaker: Text-based Emotional and Rhythmic Talking-head Generation|[PDF](https://arxiv.org/abs/2104.07995)/[code](https://github.com/FuxiVirtualHuman/Write-a-Speaker)|
 |	arXiv(2021)|Txt2vid: Ultra-low bitrate compression of talking-head videos via text|[PDF](https://arxiv.org/abs/2106.14014v3)/[code](https://github.com/tpulkit/txt2vid)|
+|arXiv(2023)|TalkCLIP: Talking Head Generation with Text-Guided Expressive Speaking Styles|[PDF](https://arxiv.org/pdf/2304.00334.pdf)|
+
+
+
+## Diffusion Model
+| Pub |  Title  |Links|
+|:--------:| :-------------|:-------------:|
+|arXiv(2023)|Face Animation with an Attribute-Guided Diffusion Model|[PDF](https://arxiv.org/pdf/2304.03199v1.pdf)/[code](https://github.com/zengbohan0217/FADM)|
+
+
 
 ## Dataset
 | Name |  Source  |Statistics|Description|
