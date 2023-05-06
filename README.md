@@ -13,6 +13,7 @@ Something about Talking Head Generation
 |arXiv(2022) |MetaPortrait: Identity-Preserving Talking Head Generation with Fast Personalized Adaptation |[PDF](https://arxiv.org/pdf/2212.08062.pdf)/[code](https://github.com/Meta-Portrait/MetaPortrait) |
 |WACV(2023) |Audio-Visual Face Reenactment |[PDF](http://cvit.iiit.ac.in/images/Projects/avfr/paper.pdf)/[code](https://github.com/mdv3101/AVFR-Gan) |
 |CVPR2023|One-Shot High-Fidelity Talking-Head Synthesis with Deformable Neural Radiance Field|[PDF](https://arxiv.org/pdf/2304.05097v1.pdf)/[code](https://www.waytron.net/hidenerf/)|
+|CVPR2023|High-Fidelity and Freely Controllable Talking Head Video Generation|[PDF](https://yuegao.me/PECHead/)/[code](https://yuegao.me/PECHead/)|
 
 
 ## Audio driven
