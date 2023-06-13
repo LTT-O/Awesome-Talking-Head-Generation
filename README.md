@@ -14,6 +14,9 @@ Something about Talking Head Generation
 |WACV(2023) |Audio-Visual Face Reenactment |[PDF](http://cvit.iiit.ac.in/images/Projects/avfr/paper.pdf)/[code](https://github.com/mdv3101/AVFR-Gan) |
 |CVPR2023|One-Shot High-Fidelity Talking-Head Synthesis with Deformable Neural Radiance Field|[PDF](https://arxiv.org/pdf/2304.05097v1.pdf)/[code](https://www.waytron.net/hidenerf/)|
 |CVPR2023|High-Fidelity and Freely Controllable Talking Head Video Generation|[PDF](https://yuegao.me/PECHead/)/[code](https://yuegao.me/PECHead/)|
+|CVPR2023|LipFormer: High-fidelity and Generalizable Talking Face Generation with A Pre-learned Facial Codebook|[PDF](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_LipFormer_High-Fidelity_and_Generalizable_Talking_Face_Generation_With_a_Pre-Learned_CVPR_2023_paper.html)|
+|arXiv(2023)|LPMM : Intuitive Pose Control for Neural Talking-Head Model via Landmark-Parameter Morphable Model|[PDF](https://arxiv.org/pdf/2305.10456.pdf)|
+|arXiv(2023)|CPNet: Exploiting CLIP-based Attention Condenser and Probability Map Guidance for High-fidelity Talking Face Generation|[PDF](https://arxiv.org/pdf/2305.13962.pdf)|
 
 
 ## Audio driven
@@ -41,7 +44,10 @@ Something about Talking Head Generation
 |ICLR(20233)Under review|Feature-Driven Talking Face Generation With Stylegan2|[PDF](https://openreview.net/pdf?id=79xEHFvjx9p)|
 |SIGGRAPH(2022)|VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild|[PDF](https://arxiv.org/pdf/2211.14758.pdf)/[code](https://github.com/vinthony/video-retalking)|
 |arXiv(2023)|THAT’S WHAT I SAID: FULLY-CONTROLLABLE TALKING FACE GENERATION|[PDF](https://mm.kaist.ac.kr/projects/FC-TFG/)/[code](https://github.com/art-jang/talking_head_synthesis)|
-
+|arXiv(2023)|Emotional Talking Head Generation based on Memory-Sharing and Attention-Augmented Networks|[PDF](https://arxiv.org/pdf/2306.03594.pdf)|
+|arXiv(2023)|Learning Landmarks Motion from Speech for Speaker-Agnostic 3D Talking Heads Generation|[PDF](https://arxiv.org/pdf/2306.01415.pdf)|
+|arXiv(2023)|EmotionGesture: Audio-Driven Diverse Emotional Co-Speech 3D Gesture Generation|[PDF](https://arxiv.org/pdf/2305.18891.pdf)|
+|arXiv(2023)|Exploring Phonetic Context in Lip Movement for Authentic Talking Face Generation|[PDF](https://arxiv.org/pdf/2305.19556.pdf)|
 
 ## Text driven
 | Pub |  Title  |Links|
