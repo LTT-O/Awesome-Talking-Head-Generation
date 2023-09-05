@@ -1,4 +1,4 @@
-# Talking Head Generation
+# Awesome Talking Head Generation
 Something about Talking Head Generation
 
 ## Video driven
